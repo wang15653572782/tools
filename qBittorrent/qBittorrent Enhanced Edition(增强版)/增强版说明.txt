@@ -1,0 +1,13 @@
+qBittorrent Enhanced Edition(增强版)
+
+特征：
+自动禁止迅雷，QQ，百度，XFplay，DLBT和离线下载器
+自动禁止来自中国的未知对等体选项（默认：关闭）
+自动更新公共跟踪器列表（默认：关闭）
+自动禁止 BitTorrent 媒体播放器对等选项（默认：关闭）
+对等白名单/黑名单
+
+描述：
+qBittorrent是一个用C++ / Qt编程的bittorrent客户端，它使用Arvid Norberg的libtorrent（有时称为libtorrent-rasterbar）。
+它旨在成为所有其他bittorrent客户端的良好替代品。qBittorrent快速，稳定，并提供Unicode支持以及许多功能。
+DB-IP的免费IP到国家Lite数据库用于解析对等体的国家/地区。该数据库采用知识共享署名4.0国际许可协议进行许可。
